@@ -1,3 +1,3 @@
 # realtime-chat
 
-Development of a webapp uing websockets with NodeJS
+Development of a webapp using a persistent-bidirectional websockets prothocol connection with NodeJS
